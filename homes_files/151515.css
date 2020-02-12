@@ -1,0 +1,54 @@
+.bar-subheader {
+	background-color: #151515 !important;
+}
+
+.bar-header {
+	background-color: #151515 !important;
+}
+
+.tabs {
+  	background-color: #151515 !important;
+}
+
+.time-slot.selected {
+    padding: 8px 10px;
+    color: #151515 !important;
+    border: 2px solid #151515 !important;
+}
+
+.button-theme {
+	background-color: #151515 !important;
+}
+
+.text-theme {
+	color: #151515 !important;
+}
+
+span.day.today {
+    color: #151515 !important;
+}
+
+span.day.today::after {
+    border-color: #151515 !important;
+}
+
+.header-nav .days > div.selected > .month-day-number,
+.header-nav .days > div.selected > .week-day-name {
+    color: #151515 !important;
+}
+
+.item-floating-label.input-active {
+    border-bottom: 2px solid #151515 !important;
+}
+
+.checkbox input[type="checkbox"]:checked:after, 
+.checkbox-inline input[type="checkbox"]:checked:after {
+	background-color: #151515 !important;
+    border-color: #151515 !important;
+}
+
+.checkbox input:checked:before, 
+.checkbox input:checked + .checkbox-icon:before {
+    background: #151515 !important;
+    /*border-color: #151515 !important;*/
+}
